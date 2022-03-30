@@ -11,6 +11,7 @@
         }
         .container{
             text-align: center;
+            color:aquamarine;
         }
     </style>
 </head>
